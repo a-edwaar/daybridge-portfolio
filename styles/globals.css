@@ -1,3 +1,8 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+:root {
+  --roadmap-column-width: 256px;
+  --roadmap-row-height: 56px;
+}

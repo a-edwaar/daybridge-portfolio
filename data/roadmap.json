@@ -1,0 +1,142 @@
+{
+  "categories": ["Work", "Projects", "Education"],
+  "tags": [
+    {
+      "name": "Metafield",
+      "fromColor": "#0038FF",
+      "toColor": "#AD00FF"
+    },
+    {
+      "name": "Ghost",
+      "fromColor": "#11CF69",
+      "toColor": "#11CFAE"
+    },
+    {
+      "name": "University",
+      "fromColor": "#1636F0",
+      "toColor": "#16C7F0"
+    },
+    {
+      "name": "IBM",
+      "fromColor": "#2e3538",
+      "toColor": "#9caeb8"
+    },
+    {
+      "name": "Other",
+      "fromColor": "#cd0bdb",
+      "toColor": "#db0b73"
+    }
+  ],
+  "cards": [
+    {
+      "title": "BSc Computer Science",
+      "bio": "Graduated with a first class honours from the University of Birmingham",
+      "url": "https://www.birmingham.ac.uk/undergraduate/courses/computer-science/computer-science.aspx",
+      "tag": 2,
+      "secondaryTag": null,
+      "category": 2,
+      "startDate": "2017-09-01",
+      "endDate": "2021-07-31",
+      "photo": null
+    },
+    {
+      "title": "Software Developer @ IBM",
+      "bio": "Interned as a dev-ops engineer on a SaaS team",
+      "url": "https://www.ibm.com/uk-en/cloud/mq",
+      "tag": 3,
+      "secondaryTag": "Go",
+      "category": 0,
+      "startDate": "2019-09-01",
+      "endDate": "2020-07-31",
+      "photo": null
+    },
+    {
+      "title": "Co-Shop",
+      "bio": "iOS app to help people get their food essentials during the pandemic",
+      "url": "https://thetab.com/uk/birmingham/2020/05/20/this-uob-student-has-created-an-app-to-help-people-in-isolation-44491",
+      "tag": 4,
+      "secondaryTag": "Swift",
+      "category": 1,
+      "startDate": "2020-03-01",
+      "endDate": "2020-05-31",
+      "photo": null
+    },
+    {
+      "title": "Origin",
+      "bio": "Personal blog theme for Ghost",
+      "url": "https://www.origintheme.co/",
+      "tag": 1,
+      "secondaryTag": "HTML/CSS",
+      "category": 1,
+      "startDate": "2021-06-01",
+      "endDate": "2021-06-30",
+      "photo": "origin.png"
+    },
+    {
+      "title": "Co-Founder @ Metafield",
+      "bio": "Agency specialising in web apps",
+      "url": "https://metafield.co.uk",
+      "tag": 0,
+      "secondaryTag": "NextJS",
+      "category": 0,
+      "startDate": "2021-09-01",
+      "endDate": null,
+      "photo": null
+    },
+    {
+      "title": "Flags",
+      "bio": "Asynchronous video tool",
+      "url": "https://flags.app",
+      "tag": 0,
+      "secondaryTag": "Swift",
+      "category": 1,
+      "startDate": "2021-11-01",
+      "endDate": "2021-11-30",
+      "photo": null
+    },
+    {
+      "title": "Ghost Expert",
+      "url": "https://ghost.org/experts/archie-edwards/",
+      "bio": "Contracting custom themes and integrations",
+      "tag": 1,
+      "secondaryTag": "HTML/CSS",
+      "category": 0,
+      "startDate": "2021-12-01",
+      "endDate": null,
+      "photo": null
+    },
+    {
+      "title": "SupportDuck",
+      "bio": "A lightweight customer support widget",
+      "url": "https://app.supportduck.io",
+      "tag": 0,
+      "secondaryTag": "NextJS",
+      "category": 1,
+      "startDate": "2021-12-01",
+      "endDate": "2022-01-31",
+      "photo": "support-duck.png"
+    },
+    {
+      "title": "Decpage",
+      "bio": "Automating insurance polices",
+      "url": "https://decpage.vercel.app",
+      "tag": 0,
+      "secondaryTag": "NextJS",
+      "category": 1,
+      "startDate": "2021-12-01",
+      "endDate": "2021-12-31",
+      "photo": null
+    },
+    {
+      "title": "Daybridge",
+      "bio": "Applied for the web engineer role",
+      "url": "https://daybridge.com",
+      "tag": 4,
+      "secondaryTag": null,
+      "category": 0,
+      "startDate": "2022-03-01",
+      "endDate": "2022-03-31",
+      "photo": null
+    }
+  ]
+}
