@@ -56,14 +56,10 @@ export default function Header({
           <ChevronRightIcon className="h-4 w-4" />
         </button>
       </div>
-      <h1 className="flex justify-self-center items-center space-x-1">
+      <h1 className="hidden md:flex justify-self-center items-center space-x-1">
         <span className="font-semibold">Web Engineer Role</span>
-        <span className="hidden md:inline-block font-medium text-slate-500">
-          /
-        </span>
-        <span className="hidden md:inline-block font-medium text-slate-500">
-          Daybridge
-        </span>
+        <span className="font-medium text-slate-500">/</span>
+        <span className=" font-medium text-slate-500">Daybridge</span>
       </h1>
       <div className="col-start-3 justify-self-end flex items-center space-x-6">
         <a

@@ -25,7 +25,7 @@ export default function Intro({ contentHtml, isOpen, setIsOpen }: IntroProps) {
             leaveFrom="opacity-100"
             leaveTo="opacity-0"
           >
-            <Dialog.Overlay className="fixed inset-0 bg-black/30" />
+            <Dialog.Overlay className="hidden md:block fixed inset-0 bg-black/30" />
           </Transition.Child>
 
           <Transition.Child
